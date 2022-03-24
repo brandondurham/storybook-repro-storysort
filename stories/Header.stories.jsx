@@ -3,7 +3,6 @@ import React from 'react';
 import { Header } from './Header';
 
 export default {
-
   title: 'Components by Category/Header/Examples',
   component: Header,
   parameters: {
